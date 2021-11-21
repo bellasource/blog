@@ -1,0 +1,29 @@
+favicon: /favicon.webp
+avatar: /favicon.webp
+katex: false
+
+menus:
+  - name: 首页
+    link: /
+  - name: 归档
+    link: /archives/
+  - name: 标签
+    link: /tags/
+  # - name: 分类
+  #   link: /categories/
+disqus:
+  enable: false
+  shortname: "Your shortname here"
+  api: "Your api here"
+  apikey: "Your api key here"
+  admin: "Your disqus username here"
+google_analytics:
+  enable: false
+  id: UA-xxxxxxxxx-x
+footer: |
+
+friends:
+  - name: 宝硕博客
+    link: https://blog.baoshuo.ren/
+    logo: https://cdn.jsdelivr.net/npm/bsi@0.0.2/favicon/128x128.png
+    description: 学习，就是发现自己越来越菜的过程。
